@@ -1,0 +1,43 @@
+body{
+    background-image: url("ooga_booga.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position-x: 750;
+    background-position-y: 1150;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float: right;
+}
+.logo{
+    width: 100%;
+}
+.btn-success{
+    font-size: 23px;
+}
+#tablet_ooga_booga{
+    height: 75%;
+    width: 43%;
+}
+/*
+.copyright{
+    background-color: rgb(162, 163, 163);
+    font-size: 15px;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 5px;
+}
+*/
+#ins_img{
+    width: 50%;
+    height: 200px;
+    display: inline-block;
+}
+/*video{
+    background-image: url("left.png");
+}*/
